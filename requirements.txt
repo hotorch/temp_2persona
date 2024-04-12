@@ -26,7 +26,6 @@ langchainhub==0.1.15
 langdetect==1.0.9
 langsmith==0.1.40
 marshmallow==3.21.1
-mkl-service==2.4.0
 munkres==1.1.4
 openai==1.16.2
 openpyxl==3.0.10
